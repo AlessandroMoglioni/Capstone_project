@@ -1,1 +1,1 @@
-# Capstone_project
+All'interno della repository ci sono 3 cartelle : Partite_serieA(contiene tutti i dati in maniera separata , csv per ogni argomento e stagione) , SerieA_completa(contiene i csv uniti per ottenere 6 grandi tabelle sulle quali è stata fatta k'analisi) ed infine Capston_Project_Alessaandro_Moglioni(contiene il file .pbix con il report più un pdf di supporto).
